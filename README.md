@@ -6,7 +6,7 @@ Ne pas editer a la main : tout est reecrit par `npm run ingerer`.
 - Films : 20000
 - Shards : 63 (320 films par shard)
 - Pays couverts : FR, BE, CH, CA, LU, US, GB
-- Genere le : 2026-08-25T10:13:14.388Z
+- Genere le : 2026-08-25T12:56:00.327Z
 - Version du format : 1
 
 ## Attribution
