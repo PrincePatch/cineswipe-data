@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genereLe": "2026-08-28T08:35:29.605Z",
+  "genereLe": "2026-08-28T13:46:06.563Z",
   "plateformes": {
     "2": {
       "nom": "Apple TV Store",
@@ -570,6 +570,10 @@
       "nom": "Revry",
       "logo": "/llQ8zV50Wqh4gYCYfr52R1b9gfD.jpg"
     },
+    "475": {
+      "nom": "DOCSVILLE",
+      "logo": "/5zqbck5mo8PuVbGu2ngBUdn5Yga.jpg"
+    },
     "486": {
       "nom": "Spectrum On Demand",
       "logo": "/aAb9CUHjFe9Y3O57qnrJH0KOF1B.jpg"
@@ -974,6 +978,10 @@
       "nom": "Telenet",
       "logo": "/kwftIxtjuCAROIcdd53UEjzSmca.jpg"
     },
+    "1860": {
+      "nom": "Univer Video",
+      "logo": "/44E23wCM3WLsvAVRyk6fye76cZb.jpg"
+    },
     "1866": {
       "nom": "ViX Premium Amazon Channel",
       "logo": "/6S6kGNEmB4iSq83FX2zWTz8aLMN.jpg"
@@ -981,6 +989,10 @@
     "1875": {
       "nom": "Runtime",
       "logo": "/xm8xr6LDdY5j2gjYf1S3yqaeRbE.jpg"
+    },
+    "1887": {
+      "nom": "BrutX Amazon Channel",
+      "logo": "/2HsZxiwKi9Ym91r6WY9ojORvq79.jpg"
     },
     "1889": {
       "nom": "Universal+ Amazon Channel",
@@ -1037,6 +1049,10 @@
     "1972": {
       "nom": "myfilmfriend",
       "logo": "/mWAOUnJY6hnQghUZpjuDB815efG.jpg"
+    },
+    "1976": {
+      "nom": "Outside Watch",
+      "logo": "/jLD5zHgsAhSWBRTnMUOLaXrUuVI.jpg"
     },
     "1985": {
       "nom": "Citytvplus",
@@ -1238,6 +1254,10 @@
       "nom": "Queer Cinemab Amazon Channel",
       "logo": "/kMfIUfVymOKnLwQGBAAUl6V8Q6H.jpg"
     },
+    "2273": {
+      "nom": "Stingray Classica Amazon Channel",
+      "logo": "/ycsoT2ziFng88zD2bIPLkHPICdj.jpg"
+    },
     "2275": {
       "nom": "Stingray Karaoke Amazon Channel",
       "logo": "/hhrxkhGheXYIxySqg4RcvO4tywc.jpg"
@@ -1410,6 +1430,10 @@
       "nom": "Kidstream Amazon Channel",
       "logo": "/juECZMRYkmLlJxRQLhB4rZtIfwP.jpg"
     },
+    "2417": {
+      "nom": "Magnolia Network Amazon Channel",
+      "logo": "/ctJE3cuuNYpG1o19VOCzJLxZnny.jpg"
+    },
     "2418": {
       "nom": "Magnolia Selects Amazon Channel",
       "logo": "/v2DlnoBWsXnWJQKKez6C6rjqzgk.jpg"
@@ -1425,6 +1449,10 @@
     "2423": {
       "nom": "MyOutdoor TV Amazon Channel",
       "logo": "/f8IYdpLZ7WsEbwm1Az1k63lX76i.jpg"
+    },
+    "2424": {
+      "nom": "Outside TV Features Amzon Channel",
+      "logo": "/5hN7tymQmuxCQQAHzEITPBKfzbW.jpg"
     },
     "2427": {
       "nom": "Passionflix Amazon Channel",
@@ -1461,6 +1489,10 @@
     "2436": {
       "nom": "Ryan and Friends Plus Amazon Channel",
       "logo": "/x1imMFxHewLfnVvl9pvKDtU0HXz.jpg"
+    },
+    "2438": {
+      "nom": "Sensical Amazon Channel",
+      "logo": "/qdso2SzItOCRPYuXZpB18PJHGO1.jpg"
     },
     "2442": {
       "nom": "Demand Africa Amazon Channel",
@@ -1505,6 +1537,10 @@
     "2478": {
       "nom": "FOUND TV",
       "logo": "/mD3KV7olfMJOBxJqKKPjvNrpVJF.jpg"
+    },
+    "2480": {
+      "nom": "Gaiam TV Yoga & Fit",
+      "logo": "/pJRVLFLEPNeXra6AoRp5SQ2txhy.jpg"
     },
     "2525": {
       "nom": "Super Channel Plus",
