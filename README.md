@@ -3,10 +3,10 @@
 Donnees generees automatiquement pour https://princepatch.github.io/cineswipe/
 Ne pas editer a la main : tout est reecrit par `npm run ingerer`.
 
-- Films : 40810
-- Shards : 164 (250 films par shard)
+- Films : 43527
+- Shards : 175 (250 films par shard)
 - Pays couverts : FR, BE, CH, CA, LU, US, GB
-- Genere le : 2026-08-28T13:46:10.719Z
+- Genere le : 2026-09-01T14:51:12.660Z
 - Version du format : 1
 
 ## Attribution

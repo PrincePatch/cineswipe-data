@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genereLe": "2026-08-28T13:46:06.563Z",
+  "genereLe": "2026-09-01T14:51:11.704Z",
   "plateformes": {
     "2": {
       "nom": "Apple TV Store",
@@ -990,10 +990,6 @@
       "nom": "Runtime",
       "logo": "/xm8xr6LDdY5j2gjYf1S3yqaeRbE.jpg"
     },
-    "1887": {
-      "nom": "BrutX Amazon Channel",
-      "logo": "/2HsZxiwKi9Ym91r6WY9ojORvq79.jpg"
-    },
     "1889": {
       "nom": "Universal+ Amazon Channel",
       "logo": "/4ABGBjAMtRrYUrr0w3QfanuiaoB.jpg"
@@ -1318,6 +1314,10 @@
       "nom": "Best of British Tv Amazon Channel",
       "logo": "/d4DhghomNx4W8eNZxiWBwYhTISn.jpg"
     },
+    "2324": {
+      "nom": "Baeble Amazon Channel",
+      "logo": "/oONBGuciYIr8QtZfK6DXEzyFla2.jpg"
+    },
     "2325": {
       "nom": "Best Westerns Ever Amazon Channel",
       "logo": "/zHcxRKfqUFsdG3taPDYGEu5E8FK.jpg"
@@ -1325,6 +1325,10 @@
     "2326": {
       "nom": "Broadway HD Amazon Channel",
       "logo": "/49xq9Js36idzOAbLPFLeKIaS8lz.jpg"
+    },
+    "2330": {
+      "nom": "Jolt Film",
+      "logo": "/sBTV0rN8JUhF4G3uIceinWtQ3gi.jpg"
     },
     "2358": {
       "nom": "Lionsgate+ Amazon Channels",
@@ -1350,6 +1354,10 @@
       "nom": "Dekkoo Amazon Channel",
       "logo": "/3mJLdi3mdSJr934KkyX2N8ZQOth.jpg"
     },
+    "2376": {
+      "nom": "DocCom Amazon Channel",
+      "logo": "/bHNDIVZWeq3Aq7y8qAhm2p3tVtg.jpg"
+    },
     "2377": {
       "nom": "DocuramaFilms Amazon Channel",
       "logo": "/7euDfXJ182rvLwRtZTjEhrEt0Z7.jpg"
@@ -1373,6 +1381,10 @@
     "2392": {
       "nom": "Echoboom Amazon Channel ",
       "logo": "/5fjo9JkLUHsyFmvSxNINObCgkGj.jpg"
+    },
+    "2394": {
+      "nom": "Fear Factory Amazon Channel",
+      "logo": "/s1G5QtQxGzZGgNzqt3A78dMxz9z.jpg"
     },
     "2395": {
       "nom": "Film Movement Plus Amazon Channel",
@@ -1486,6 +1498,10 @@
       "nom": "REELZ+ Amazon Channel",
       "logo": "/76e1rdfgkn5PQCKHfkq9VgArPIe.jpg"
     },
+    "2435": {
+      "nom": "Revry Amazon Channel",
+      "logo": "/kVzt0d2rs4KIBAvt0UPvF3HJoWv.jpg"
+    },
     "2436": {
       "nom": "Ryan and Friends Plus Amazon Channel",
       "logo": "/x1imMFxHewLfnVvl9pvKDtU0HXz.jpg"
@@ -1501,6 +1517,10 @@
     "2443": {
       "nom": "The Surf Network Amazon Channel",
       "logo": "/mg6cM5baVFe1uiPGl4vQ9GuULRI.jpg"
+    },
+    "2444": {
+      "nom": "Toku Amazon Channel",
+      "logo": "/o8NzNizvk9TeZ1hfMtMOQ5a6h8k.jpg"
     },
     "2445": {
       "nom": "MovieSphere+ Amazon Channel",
