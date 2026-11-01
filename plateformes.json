@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genereLe": "2026-10-01T16:54:54.747Z",
+  "genereLe": "2026-11-01T17:03:27.804Z",
   "plateformes": {
     "2": {
       "nom": "Apple TV Store",
@@ -345,10 +345,6 @@
     "291": {
       "nom": "MZ Choice Amazon Channel",
       "logo": "/6kINh90KLGRqWa9HS2oj4JI1ipO.png"
-    },
-    "293": {
-      "nom": "PBS Kids Amazon Channel",
-      "logo": "/wCW3oITUn8OBRWhivavESRrYp7b.png"
     },
     "294": {
       "nom": "PBS Masterpiece Amazon Channel",
@@ -783,8 +779,8 @@
       "logo": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png"
     },
     "602": {
-      "nom": "FilmBox Live Amazon Channel",
-      "logo": "/cD1TN5ey9mYD8MZ8FrHMyQq42xa.png"
+      "nom": "FILMBOX+ Now Amazon Channel",
+      "logo": "/rAJjslepn3Be3RppygJDVVYdkLw.png"
     },
     "603": {
       "nom": "CuriosityStream Amazon Channel",
@@ -825,6 +821,10 @@
     "622": {
       "nom": "UPC TV",
       "logo": "/4UK8ibAWSubGXnPoQT5EZbgd0yF.png"
+    },
+    "623": {
+      "nom": "WeTV",
+      "logo": "/wonfCSSdI55EfVFlWJyyQZIlYx7.png"
     },
     "633": {
       "nom": "Paramount+ Roku Premium Channel",
@@ -885,10 +885,6 @@
     "692": {
       "nom": "Cultpix",
       "logo": "/hBR1NB5z52BHMqowq0TgZqMcDBv.png"
-    },
-    "701": {
-      "nom": "FilmBox+",
-      "logo": "/hfooLkJnxKlZRzY1yNK8ryKiijf.png"
     },
     "705": {
       "nom": "Hollywood Suite Amazon Channel",
@@ -1014,6 +1010,10 @@
       "nom": "Runtime",
       "logo": "/erEYCN3EGN4yzcRvix2DunZLxHE.png"
     },
+    "1887": {
+      "nom": "BrutX Amazon Channel",
+      "logo": "/v5nFeMfHNflqaTidVBuIdePId34.png"
+    },
     "1889": {
       "nom": "Universal+ Amazon Channel",
       "logo": "/j3Q750FwRyIejO5MrNu25Kia57.png"
@@ -1025,6 +1025,10 @@
     "1891": {
       "nom": "alleskino Amazon Channel",
       "logo": "/zNTVxeMlufUYsPwqGMGFSurGreV.png"
+    },
+    "1893": {
+      "nom": "Crime+ Investigation Play Amazon Channel",
+      "logo": "/uIXahFheGRdRDGktc5JZKvhZRqv.png"
     },
     "1898": {
       "nom": "Amazon MX Player",
@@ -1077,6 +1081,10 @@
     "1972": {
       "nom": "myfilmfriend",
       "logo": "/dJsyipsIt597fzdXUlr5sDifNRa.png"
+    },
+    "1976": {
+      "nom": "Outside Watch",
+      "logo": "/udCTWgJghEIid2npnaeCcLq1m2b.png"
     },
     "1985": {
       "nom": "Citytvplus",
@@ -1242,6 +1250,10 @@
       "nom": "Citytvplus Amazon Channel",
       "logo": "/iyXO5Abg68XdO00nTzXcC1YD7mf.png"
     },
+    "2172": {
+      "nom": "The Great Courses Amazon Channel",
+      "logo": "/sIVDZUo3rIKqbIE3Sh8djQJzJG5.png"
+    },
     "2173": {
       "nom": "Anime Digital Network Amazon Channel",
       "logo": "/xcrhIrntyI8Ljmt8ETGe6AofE8V.png"
@@ -1303,8 +1315,8 @@
       "logo": "/5bRuoUCmorhxi3H5JWVDW6IWOfb.png"
     },
     "2285": {
-      "nom": "JustWatch TV",
-      "logo": "/aJXLTvX11u4fBLMPRVJZVKkLYHP.png"
+      "nom": "JustWatch TV Free",
+      "logo": "/dMMp97ZdEkokwbdjqeM12Xk0acu.png"
     },
     "2286": {
       "nom": "VIVA by videofutur",
@@ -1346,6 +1358,10 @@
       "nom": "Channel 4 Plus",
       "logo": "/6ron8462ruFFcDV4kkqqpbNQue8.png"
     },
+    "2316": {
+      "nom": "Alchemiya Amazon Channel",
+      "logo": "/gxzqxNsimYV4RBllwpMYId4DZwo.png"
+    },
     "2318": {
       "nom": "Amebatv Amazon Channel",
       "logo": "/aJXVegIjKagfzioJ90nwDn3beb4.png"
@@ -1370,9 +1386,9 @@
       "nom": "Broadway HD Amazon Channel",
       "logo": "/iwUZ7U1f7rAcaa7pFevHE9yG4in.png"
     },
-    "2329": {
-      "nom": "Cartoon Network Amazon Channel",
-      "logo": "/cCrds5zk6NV8LBu6D00YkJ8sQ3s.png"
+    "2330": {
+      "nom": "Jolt Film",
+      "logo": "/br5xAl9fUmssOElX3ENWvymUtGx.png"
     },
     "2358": {
       "nom": "Lionsgate+ Amazon Channel",
@@ -1429,10 +1445,6 @@
     "2395": {
       "nom": "Film Movement Plus Amazon Channel",
       "logo": "/zy8e5KYnkpB8qbLJUvzMnaynBSZ.png"
-    },
-    "2398": {
-      "nom": "Food Matters Amazon Channel",
-      "logo": "/abvSx9NJzXJbZYI0CD5L2T1fqvq.png"
     },
     "2400": {
       "nom": "France Channel Amazon Channel",
@@ -1506,6 +1518,14 @@
       "nom": "MyOutdoor TV Amazon Channel",
       "logo": "/xikgB1gYVoXNvi28NwMsWy7jFxW.png"
     },
+    "2424": {
+      "nom": "Outside TV Features Amzon Channel",
+      "logo": "/y3b3UctYaH11sKkxPN4juIQhaHp.png"
+    },
+    "2426": {
+      "nom": "Panna Cooking Amazon Channel",
+      "logo": "/pkn2lXzWtNJReRNth6yhVE5qB5o.png"
+    },
     "2427": {
       "nom": "Passionflix Amazon Channel",
       "logo": "/qwAX5rtMm8JVnbGFASKhmRY8hXp.png"
@@ -1557,6 +1577,10 @@
     "2443": {
       "nom": "The Surf Network Amazon Channel",
       "logo": "/ntK1exgHl96YAxZkvJ9LEQ06tMk.png"
+    },
+    "2444": {
+      "nom": "Toku Amazon Channel",
+      "logo": "/iH5dtBl6WfoCCAQ7ZhizZefJ82t.png"
     },
     "2445": {
       "nom": "MovieSphere+ Amazon Channel",
@@ -1686,6 +1710,10 @@
       "nom": "Paramount Plus Essential",
       "logo": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png"
     },
+    "2620": {
+      "nom": "CaixaForum+",
+      "logo": "/5BBtkfnbubfLyPXDtscrgQHg1cq.png"
+    },
     "2621": {
       "nom": "KQED",
       "logo": "/gq031DkuykfuuHVoLPx9BFNyfPU.png"
@@ -1723,16 +1751,12 @@
       "logo": "/oWzef0v7kMQzjAhax6wcc52GfxW.png"
     },
     "2671": {
-      "nom": "ARTE Boutique",
-      "logo": "/bjBKW5W6Ja59nSGA5ukR8whbTyd.png"
+      "nom": "ARTE VOD",
+      "logo": "/z32NGSc2wYxQzcOc24iXK8q35A1.png"
     },
     "2679": {
       "nom": "Amasian TV",
       "logo": "/gnmo98waJ6PHt9uKZaTo8Wq95Ky.png"
-    },
-    "2684": {
-      "nom": "TPT",
-      "logo": "/6gYrafZiBpckxlEUr29U0Azvy6C.png"
     },
     "2685": {
       "nom": "Artify",
@@ -1785,6 +1809,34 @@
     "2782": {
       "nom": "Filmtap",
       "logo": "/jaekUwv4s9rVc0GvQhsnwDp82MA.png"
+    },
+    "2784": {
+      "nom": "JustWatch TV Store",
+      "logo": "/aaFIYn2NGPCo0rpLiWokbvNqNJd.png"
+    },
+    "2785": {
+      "nom": "JustWatch TV Plus",
+      "logo": "/bSAgNVOaVZcmdts8TZSp0nYxsD3.png"
+    },
+    "2786": {
+      "nom": "BINGE Movies & TV",
+      "logo": "/lJzEL0ddBGpK62gpFAbxLGXN6My.png"
+    },
+    "2791": {
+      "nom": "JustWatch TV Beta",
+      "logo": "/4VxJTXhTeHGMLPxnXdzE6Dfem5u.png"
+    },
+    "2793": {
+      "nom": "TV5 Monde+",
+      "logo": "/kqtcWgvZccNbWrqTec9rDFNMZU1.png"
+    },
+    "2796": {
+      "nom": "PBS Kids",
+      "logo": "/7fXsX6nah0rRJqbkgA1Ft9SAw5C.png"
+    },
+    "2799": {
+      "nom": "Eye Film Player",
+      "logo": "/ojjtYm8XeAqcUOZvaEab7YJtSfD.png"
     }
   }
 }
